@@ -11,7 +11,7 @@
  - ✨ AI-Powered Tailoring – Generates unique cover letters based on your resume and job description.
  - 📄 Minimal Input – Just provide your name, email, resume, and job details.
  - ⚡ Quick & Easy – Get polished cover letters ready for submission in minutes.
- - 🔒 Privacy-Focused – Your data is secure and never shared without consent.
+ - 🔒 Privacy-Focused – Your data is secure and you have a freedom to delete your account whenever you want.
 
 ## TECH STACK
 - Frontend: Next.js / React
@@ -39,6 +39,9 @@ Made with ❤️ by aljimsondev. Happy job hunting! 🎯
 
  #### Create Page
    ![create](generated.png)
+
+  #### Upload Resume
+   ![create](upload.png)
 
  
 
