@@ -31,7 +31,13 @@
 Made with ❤️ by aljimsondev. Happy job hunting! 🎯
 
 ## Screenshots
+ #### Create Page
+   ![create](create.png)
 
+ #### Create Page
+   ![create](generated.png)
+
+ 
 
 
 
