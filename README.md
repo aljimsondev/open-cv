@@ -13,13 +13,14 @@
 
 ## TECH STACK
 - Frontend: Next.js / React
+- Authentication & Database: Firebase
 - AI Integration: Gemini AI
 - Styling: Tailwind CSS / CSS
 - Backend: Next.js API
 - Deployment: Vercel
 
 ## Usage
-- 1. Upload your resume (PDF/DOCX) or paste your work experience.
+  1. Upload your resume (PDF/DOCX) or paste your work experience.
   2. Enter the job description you’re applying for.
   3. Generate & customize your AI-powered cover letter.
   4. Download or copy the final version for your application.
