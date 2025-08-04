@@ -4,7 +4,7 @@
 ### 🚀 OpenCV is a smart job application assistant that helps you create personalized cover letters in seconds. Powered by Gemini AI, it analyzes your resume and job descriptions to highlight your most relevant qualifications.
 [Try it here](https://opencv.aljimsondev.site/)
 
-> The code is available only in my monorepo which is currently private. If you are interisted about this project feel free to send me a DM.
+> The code is available only in my monorepo which is currently private due to private projects I've working on :(
 
 ## FEATURES
 
